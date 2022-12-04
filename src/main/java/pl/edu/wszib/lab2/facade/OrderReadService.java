@@ -7,4 +7,10 @@ public class OrderReadService {
     void read(/** some order id*/) {
 
     }
+    void delete(){
+
+    }
+    void update(){
+
+    }
 }

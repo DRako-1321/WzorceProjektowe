@@ -20,4 +20,8 @@ public class OrderFacade {
     public void read() {
         orderReadService.read();
     }
+
+    public void delete() { orderReadService.delete(); }
+
+    public void update() { orderReadService.update(); }
 }
